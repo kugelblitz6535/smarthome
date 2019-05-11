@@ -1,0 +1,1 @@
+テレビの起動はetherwakeでwol
